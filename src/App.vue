@@ -31,8 +31,8 @@
                 </p>
                 <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                   <div class="rounded-md shadow">
-                    <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
-                      Check it out
+                    <a href="https://devweb.tellstories.id/" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
+                      Check This Out
                     </a>
                   </div>
                 </div>
@@ -95,7 +95,7 @@
     <section>
       <div class=" bg-white">
         <div class="container mx-auto max-w-4xl px-6 py-20">  
-          <h1 class=" text-4xl font-bold leading-snug mb-6">Our User's Viewpoint</h1>
+          <h1 class=" text-4xl font-bold leading-snug mb-6">What People Say About Us</h1>
         </div>
         <div class=" md:flex mx-auto max-w-4xl px-6 lg:flex space-x-3">
           <div class=" px-8 bg-white shadow-lg rounded-lg my-20 lg:w-1/3">
